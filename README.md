@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **DSA, JavaScript**
 
 - 📫 How to reach me **vivekshinde0426@gmail.com**
-- 
+  
 <p align="left">
 </p>
 
