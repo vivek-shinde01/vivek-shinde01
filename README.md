@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Shinde</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
 
 
-- 🌱 I’m currently learning **DSA, JavaScript**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **vivekshinde0426@gmail.com**
   
